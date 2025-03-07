@@ -1,0 +1,6 @@
+@TARpe23RESTapi_HostAddress = http://localhost:5222
+
+GET {{TARpe23RESTapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

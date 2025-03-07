@@ -1,0 +1,31 @@
+Docker konspekt
+
+1. RESTAPI on arhitektuuriline stiil, SOAP on protokoll ja GraphQL on pigem kogumik tööriiste/keel API querymiseks.
+REST on mitmekülgsem, ja lubab kasutada HTML-i, XML-i ja JSON-it, aga SOAP kasutab vaid XML-i.
+SOAP-i sõnumid on tavaliselt pikemad ja mahukamad, mis muudab laadimisajad tihtipeale pikemaks. REST on seevastu kiirem ja efektiivsem, ja kuna REST-i
+vastused on cachetavad, saab laadimisaegu veel lühendada. REST on stateless, mis tähendab, et igas requestis on kaasas kõik vajalikud andmed selle töötlemiseks.
+Samuti on see resource-based, mis tähendab, et igat ressurssi identifitseeritakse unikaalse URI-ga (Uniform Resource Identifier).
+
+ SOAP on n.ö protocol-independent, mis tähendab, et seda saab 
+kasutada nii HTTP, SMTP ja FTP sõnumite saatmiseks. Samuti on SOAP disainitud töötama iga programmeerimiskeelega, mis toetab XML-i ja HTTP-d.
+SOAP on standardiseeritud ja kaua kasutatud protokoll, mis teeb selle töökindlaks. Kuid SOAP on üsna keeruline, ja vajab suuremat overheadi kui nt REST.
+Samuti on mured selle kiirusega, kuna failid on suured. SOAP lubab luua custom laiendeid, et toetada ükskõik millise protokolli vajadusi.
+
+REST kasutab HTTPSi, URLi, ja parameetreid et parseda, kuid GraphQL kasutab querysid
+selleks et koguda read-only andmeid ja suudab neid muuta. GraphQL-il on väiksem ribalaius, ja töötab paremini kui andmeid on mitmetest punktidest, ja soovid neid 
+ühendada neid lõpp-punktis. Samuti on GraphQL etem väga varieeruvate andmete töötlemiseks. GraphQL on väga tugevalt tüübistatud, mis tähendab seda, et igal
+väljal on spetsiifiline andmetüüp, mis muudab andmete valideerimise ja käitlemise kergemaks. GraphQL on ühe lõpp-punktiga, mis tähendab, et kliendid saavad
+kõik vajalikud andmed välja kutsuda ühe requestiga. Samuti on see schema-driven, mis teeb selle mõistmise arendajatele lihtsamaks.
+
+
+
+
+
+
+
+
+//allikad
+https://aws.amazon.com/compare/the-difference-between-soap-rest/
+https://aws.amazon.com/compare/the-difference-between-graphql-and-rest/
+https://www.freecodecamp.org/news/rest-vs-graphql-apis/#heading-how-rest-apis-work
+

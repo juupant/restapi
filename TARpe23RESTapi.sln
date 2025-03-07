@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TARpe23RESTapi", "TARpe23RESTapi.csproj", "{CC76400A-BF29-F116-E5D1-099931A9D142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC76400A-BF29-F116-E5D1-099931A9D142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC76400A-BF29-F116-E5D1-099931A9D142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC76400A-BF29-F116-E5D1-099931A9D142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC76400A-BF29-F116-E5D1-099931A9D142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {231E090B-C7F0-4A14-A251-01A6FADA2239}
+	EndGlobalSection
+EndGlobal
