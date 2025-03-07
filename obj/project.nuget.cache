@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WEMuraVsiXs1cOashtHoZwMj1PdJfNLrEyaWZjCqZGXqSvXw+5ZDgTscpRIbt+rflmTpepx53Zi/1iizdnXSNQ==",
+  "dgSpecHash": "11UhNMdZfhS3RxdjSJ8a4fl7Cd/KhP5419XI2KcllUCjEFHFi736yr/7SEGMWoxLXnfaRP5AwFJ9D6GVHiXnlg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Alan Markus\\Source\\Repos\\TARpe23RESTapi\\TARpe23RESTapi.csproj",
+  "projectFilePath": "C:\\Users\\Alan Markus\\Source\\Repos\\restapi\\TARpe23RESTapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alan Markus\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Alan Markus\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

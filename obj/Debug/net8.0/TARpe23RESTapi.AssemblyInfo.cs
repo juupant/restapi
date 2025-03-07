@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TARpe23RESTapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c125a6d1910fc2e8ec23ad6f0a631ce42a5bfac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f3b25394e243d9164ef15af40a3d116768ef81b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TARpe23RESTapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TARpe23RESTapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

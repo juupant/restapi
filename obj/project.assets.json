@@ -8079,11 +8079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alan Markus\\Source\\Repos\\TARpe23RESTapi\\TARpe23RESTapi.csproj",
+      "projectUniqueName": "C:\\Users\\Alan Markus\\Source\\Repos\\restapi\\TARpe23RESTapi.csproj",
       "projectName": "TARpe23RESTapi",
-      "projectPath": "C:\\Users\\Alan Markus\\Source\\Repos\\TARpe23RESTapi\\TARpe23RESTapi.csproj",
+      "projectPath": "C:\\Users\\Alan Markus\\Source\\Repos\\restapi\\TARpe23RESTapi.csproj",
       "packagesPath": "C:\\Users\\Alan Markus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alan Markus\\Source\\Repos\\TARpe23RESTapi\\obj\\",
+      "outputPath": "C:\\Users\\Alan Markus\\Source\\Repos\\restapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
